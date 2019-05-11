@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LWCBaseConfiguaration_Example' do
+  pod 'LWCBaseConfiguaration', :path => '../'
+
+  target 'LWCBaseConfiguaration_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
