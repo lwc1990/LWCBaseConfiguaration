@@ -1,0 +1,6 @@
+framework module LWCBaseConfiguaration {
+  umbrella header "LWCBaseConfiguaration-umbrella.h"
+
+  export *
+  module * { export * }
+}

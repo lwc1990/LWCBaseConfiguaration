@@ -1,0 +1,16 @@
+PODS:
+  - LWCBaseConfiguaration (0.1.0)
+
+DEPENDENCIES:
+  - LWCBaseConfiguaration (from `../`)
+
+EXTERNAL SOURCES:
+  LWCBaseConfiguaration:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LWCBaseConfiguaration: dac79067cbdb9e5c3a6b40a460fc9310e5141631
+
+PODFILE CHECKSUM: bf5de699750019319b50aada284b52fe06a5c83c
+
+COCOAPODS: 1.5.3
